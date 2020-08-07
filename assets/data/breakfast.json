@@ -1,0 +1,12 @@
+{
+    "breakfast": [
+
+        { "food": "Scrambled Eggs and Bacon", "calories": "588", "price": "$4.99" },
+        { "food": "Bluerry Pancakes", "calories": "352", "price": "$5.50" },
+        { "food": "Yogurt with Fruits", "calories": "376", "price": "$5.99" },
+        { "food": "Oatmeal", "calories": "300", "price": "$3.99" },
+        { "food": "French Toast", "calories": "498", "price": "$6.99" },
+        { "food": "Belgian Waffle", "calories": "647", "price": "$7.99" }
+
+    ]
+}

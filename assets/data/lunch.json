@@ -1,0 +1,12 @@
+{
+    "lunch": [
+
+        { "food": "Veggie and Hummus Sandwich", "calories": "325", "price": "$5.50" },
+        { "food": "Chicken Avacado BLT Wrap", "calories": "340", "price": "$6.99" },
+        { "food": "Crunchy Mexican Salad", "calories": "403", "price": "$5.99" },
+        { "food": "Salmon Salad-Stuffed Avacado", "calories": "377", "price": "$7.50" },
+        { "food": "Greek Salad Wrap", "calories": "333", "price": "$4.99" },
+        { "food": "Pizza Burger", "calories": "360", "price": "$7.99" }
+
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "dinner": [
+
+        { "food": "Poached Salmon with Tarragon", "calories": "401", "price": "$9.99" },
+        { "food": "Soy Glazed Cod and Bok Choy", "calories": "520", "price": "$10.99" },
+        { "food": "Chicken Souvlaki Dinner", "calories": "600", "price": "$11.50" },
+        { "food": "Scallop Risotto ", "calories": "449", "price": "$14.99" },
+        { "food": "Beef Chow Mein", "calories": "630", "price": "$9.50" },
+        { "food": "Spaghetti Bollognese", "calories": "700", "price": "$12.99" }
+
+    ]
+}
